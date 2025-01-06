@@ -15,7 +15,6 @@ export default function Home() {
 					<div className="max-w-[800px] h-[200px] m-auto flex justify-center items-center gap-6 mb-10 mt-14">
 						<div className="w-[150px] h-[150px]  border-2 border-black overflow-hidden 	shadow-[7px_7px_0px_0px_rgba(0,0,0,1)]">
 							<Image
-								className="dark:invert"
 								src="/about-me/profile.jpeg"
 								alt="Profile"
 								width={400} // กำหนด aspect ratio โดยรวม
