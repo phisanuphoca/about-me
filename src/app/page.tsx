@@ -55,6 +55,12 @@ export default function Home() {
 							width={20}
 							height={20}
 						/>
+						<Image
+							src="social-twitter.svg"
+							alt="Matéush on Twitter"
+							width={32}
+							height={32}
+						/>
 						Deploy now
 					</a>
 					<a
