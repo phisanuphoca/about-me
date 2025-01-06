@@ -29,8 +29,15 @@ export default function Home() {
 						</div>
 					</div>
 				</div>
-
-				<ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
+				{/*<Image
+					className="dark:invert"
+					src="/profile.jpeg"
+					alt="Profile"
+					width={180}
+					height={38}
+					priority
+				/>*/}
+				{/*<ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
 					<li className="mb-2">
 						Get started by editin กหหหg{" "}
 						<code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
@@ -55,12 +62,6 @@ export default function Home() {
 							width={20}
 							height={20}
 						/>
-						<Image
-							src="social-twitter.svg"
-							alt="Matéush on Twitter"
-							width={32}
-							height={32}
-						/>
 						Deploy now
 					</a>
 					<a
@@ -71,9 +72,9 @@ export default function Home() {
 					>
 						Read our docs
 					</a>
-				</div>
+				</div>*/}
 			</main>
-			<footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
+			{/*<footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
 				<a
 					className="flex items-center gap-2 hover:underline hover:underline-offset-4"
 					href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
@@ -119,7 +120,7 @@ export default function Home() {
 					/>
 					Go to nextjs.org →
 				</a>
-			</footer>
+			</footer>*/}
 		</div>
 	);
 }
