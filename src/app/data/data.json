@@ -1,0 +1,71 @@
+{
+	"experience": [
+		{
+			"position": "SENIOR FULL STACK DEVELOPER",
+			"company": "MetaEarn Co., Ltd.",
+			"period": "Sep 2022 - Present",
+			"achievements": [
+				"Outsystems Associate Reactive Developer",
+				"Outsystems Associate Traditional Web Developer",
+				"Outsystems Mobile Developer Specialist",
+				"Developed NFT-related projects, including managing NFT assets, randomizing NFT data, and integrating files into Web3 using IPFS and NodeJS.",
+				"Developed Smyleland, a privilege-based website for Smyleland games, using ReactJS.",
+				"Developed an Admin Web Portal to manage backend tasks using ReactJS.",
+				{
+					"text": "Designed and implemented a backend system using a microservice architecture with NestJS, Kafka, RabbitMQ, and Docker.",
+					"subAchievements": [
+						"Reward Service: Managed rewards, stock, reward lifecycle, and conditions.",
+						"User Service: Handled user management.",
+						"Authentication Service: Integrated JWT, SMS OTP, and Email OTP for secure login.",
+						"Logger Service: Developed a logging system for operational insights.",
+						"Config Service: Centralized settings for games and applications.",
+						"Notification Service: Managed notifications across applications with FCM.",
+						"Game Service: Oversaw all game logic and features for Smyleland 2.0, including in-game housing, quests, rewards, minigames, items, and the shop system."
+					]
+				},
+				"Enhanced system performance by implementing caching with Redis.",
+				"Worked with MongoDB and MySQL databases.",
+				"Utilized AWS cloud services, including Amazon MQ, AWS Amplify, API Gateway, Route 53, CloudFront, ECR, ECS, S3, Lambda, RDS, and CodePipeline."
+			]
+		},
+		{
+			"position": "SENIOR SOFTWARE DEVELOPER",
+			"company": "Ultimate Tech & Innovation Co., Ltd.",
+			"period": "Nov 2020 - Aug 2022",
+			"achievements": [
+				"Served as a website and application development trainer using OutSystems for partner companies",
+				"Supervised and delegated tasks to a team of 2 developers.",
+				"Researched and developed Beacon technology for indoor navigation and event mapping.",
+				"Created an event registration system using national ID card readers during the COVID-19 pandemic.",
+				"Developed Web Back Office Portals and mobile applications for PTT Natural Gas Distribution Co., Ltd., including systems for service requests, workflow management, and billing for natural gas usage.",
+				"Developed a TOR Workflow Management System for NGD PTT.",
+				"Designed a Dashboard Monitoring System for projectors, integrating data synchronization with the cloud and Line notifications.",
+				"Lead a POC project for a patient room management system for a hospital."
+			]
+		},
+		{
+			"position": "SOFTWARE DEVELOPER",
+			"company": "Datapro Computer Systems Co., Ltd.",
+			"period": "Jan 2019 - Oct 2020",
+			"achievements": [
+				"POC task management system for Bridgestone Thailand.",
+				"POC Workflow Management System as an on-premise solution for the Industrial and Commercial Bank of China (ICBC)",
+				"Developed Web Back Office Portals and mobile applications for PTT Natural Gas Distribution Co., Ltd., including systems for service requests, workflow management, and billing for natural gas usage.",
+				"Trained employees at PTT NGD on system usage.",
+				"Developed KINTO Thailand, a long-term car rental website and application for Toyota Leasing (Thailand), including payment system integration with various banks.",
+				"Implemented all projects using OutSystems."
+			]
+		},
+		{
+			"position": "JUNIOR FULL STACK DEVELOPER",
+			"company": "Maxile Co., Ltd.",
+			"period": "Jul 2018 - Dec 2018",
+			"achievements": [
+				"Created an e-commerce website for clients, including a backend management system for stock, pricing, and orders using ReactJS and Laravel. Managed the entire project lifecycle, including deployment.",
+				"Developed a mobile application to assess depression risk for Thammasat University using React Native for both iOS and Android.",
+				"Contributed features to the Metropolitan Waterworks Authority’s application using Objective-C.",
+				"Conducted data analytics by creating a heatmap visualization of Bangkok’s land prices using R."
+			]
+		}
+	]
+}
