@@ -9,7 +9,7 @@ export default function Home() {
 		//		{/* Content */}
 		//	</div>
 		//</div>
-		<div className=" font-[family-name:var(--font-geist-sans)] bg-[#FFF2E1]">
+		<div className=" font-[family-name:var(--font-geist-sans)] bg-[#FFF2E1] min-w-[1100px]">
 			<main className="flex flex-col gap-8 row-start-2 max-w-screen-lg m-auto h-full text-black">
 				<div className="flex flex-col gap-3">
 					<div className="max-w-[800px] h-[200px] m-auto flex justify-center items-center gap-6 mb-10 mt-14">
