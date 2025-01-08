@@ -28,3 +28,11 @@ body {
 	box-shadow: 4px 4px rgb(255 104 18 / 64%), 8px 8px rgb(255 205 6 / 63%),
 		12px 12px rgb(182 232 31 / 44%);
 }
+
+.bg-main-gradient {
+	background: linear-gradient(
+		90deg,
+		rgba(28, 37, 91, 1) 0%,
+		rgba(102, 24, 89, 1) 100%
+	);
+}
