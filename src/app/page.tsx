@@ -1,6 +1,6 @@
 import Image from "next/image";
 import data from "./data/data.json";
-import { EnvelopeIcon, GlobeAltIcon } from "@heroicons/react/24/solid";
+import { EnvelopeIcon } from "@heroicons/react/24/solid";
 
 export default function Home() {
 	return (
