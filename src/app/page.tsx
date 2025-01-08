@@ -1,6 +1,6 @@
 import Image from "next/image";
 import data from "./data/data.json";
-import { EnvelopeIcon } from "@heroicons/react/24/solid";
+import { EnvelopeIcon, GlobeAltIcon } from "@heroicons/react/24/solid";
 
 export default function Home() {
 	return (
@@ -10,10 +10,16 @@ export default function Home() {
 		//	</div>
 		//</div>
 		<div className=" font-[family-name:var(--font-geist-sans)] bg-[#FFF2E1] bg-main-gradient">
+			<div className="flex justify-end pt-4 pr-4">
+				<div className="text-white text-base">
+					<a href="/about-me/Phisanu Resume.pdf">Download Resume</a>
+				</div>
+			</div>
+
 			<main className="flex flex-col gap-8 row-start-2  m-auto h-full text-black">
 				<div className="flex flex-col gap-3">
 					<div className="max-w-screen-lg  m-auto px-5 md:px-0">
-						<div className="max-w-[800px] m-auto flex flex-col md:flex-row justify-center items-center gap-6 mb-10 mt-14">
+						<div className="max-w-[800px] m-auto flex flex-col md:flex-row justify-center items-center gap-6 mb-10 mt-10">
 							<div className="w-[150px] h-[150px]  border-2 border-black overflow-hidden 	shadow-[7px_7px_0px_0px_rgba(0,0,0,1)]">
 								<Image
 									src="/about-me/profile.jpeg"
