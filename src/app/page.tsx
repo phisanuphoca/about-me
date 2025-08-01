@@ -4,18 +4,7 @@ import { EnvelopeIcon } from "@heroicons/react/24/solid";
 
 export default function Home() {
 	return (
-		//<div className="h-screen w-full flex items-center justify-center  font-[family-name:var(--font-geist-sans)]  bg-gray-200">
-		//	<div className="h-full max-w-screen-lg w-full bg-white shadow-md">
-		//		{/* Content */}
-		//	</div>
-		//</div>
 		<div className=" font-[family-name:var(--font-geist-sans)] bg-[#FFF2E1] bg-main-gradient">
-			{/*<div className="flex justify-end pt-4 pr-4">
-				<div className="text-white text-base">
-					<a href="/about-me/Phisanu Resume.pdf">Download Resume</a>
-				</div>
-			</div>*/}
-
 			<main className="flex flex-col gap-8 row-start-2  m-auto h-full text-black">
 				<div className="flex flex-col gap-3">
 					<div className="max-w-screen-lg  m-auto px-5 md:px-0">
@@ -24,9 +13,9 @@ export default function Home() {
 								<Image
 									src="/about-me/profile.jpeg"
 									alt="Profile"
-									width={400} // กำหนด aspect ratio โดยรวม
+									width={400}
 									height={400}
-									layout="responsive" // ให้ภาพ responsive ตาม container
+									layout="responsive"
 									priority
 								/>
 							</div>
@@ -56,7 +45,7 @@ export default function Home() {
 											alt="logo-medium"
 											width={20}
 											height={20}
-											layout="responsive" // ให้ภาพ responsive ตาม container
+											layout="responsive"
 											priority
 										/>
 									</div>
@@ -76,7 +65,7 @@ export default function Home() {
 											alt="logo-medium"
 											width={20}
 											height={20}
-											layout="responsive" // ให้ภาพ responsive ตาม container
+											layout="responsive"
 											priority
 										/>
 									</div>
@@ -93,7 +82,7 @@ export default function Home() {
 											alt="logo-medium"
 											width={20}
 											height={20}
-											layout="responsive" // ให้ภาพ responsive ตาม container
+											layout="responsive"
 											priority
 										/>
 									</div>
@@ -103,8 +92,6 @@ export default function Home() {
 									</a>
 								</div>
 							</div>
-
-							{/*<EnvelopeIcon className="size-6" />*/}
 						</div>
 					</div>
 					<div className="bg-[#FFF2E1] rounded-tl-[40px] rounded-tr-[40px] px-5 py-10">
@@ -169,9 +156,9 @@ export default function Home() {
 													<Image
 														src="/about-me/outsystem_reactive_cert.svg"
 														alt="Profile"
-														width={400} // กำหนด aspect ratio โดยรวม
+														width={400}
 														height={400}
-														layout="responsive" // ให้ภาพ responsive ตาม container
+														layout="responsive"
 														priority
 													/>
 												</div>
@@ -191,9 +178,9 @@ export default function Home() {
 													<Image
 														src="/about-me/outsystem_traditional_cert.svg"
 														alt="Profile"
-														width={400} // กำหนด aspect ratio โดยรวม
+														width={400}
 														height={400}
-														layout="responsive" // ให้ภาพ responsive ตาม container
+														layout="responsive"
 														priority
 													/>
 												</div>
@@ -213,9 +200,9 @@ export default function Home() {
 													<Image
 														src="/about-me/outsystem_mobile_cert.svg"
 														alt="Profile"
-														width={400} // กำหนด aspect ratio โดยรวม
+														width={400}
 														height={400}
-														layout="responsive" // ให้ภาพ responsive ตาม container
+														layout="responsive"
 														priority
 													/>
 												</div>
@@ -341,9 +328,9 @@ export default function Home() {
 							<Image
 								src="/about-me/Nextjs-logo.png"
 								alt="Nextjs-logo"
-								width={400} // กำหนด aspect ratio โดยรวม
+								width={400}
 								height={400}
-								layout="responsive" // ให้ภาพ responsive ตาม container
+								layout="responsive"
 								priority
 							/>
 						</div>
