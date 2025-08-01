@@ -1,10 +1,23 @@
 {
 	"experience": [
 		{
+			"position": "SENIOR BACKEND DEVELOPER (GO)",
+			"company": "Sirisoft Company Limited (Onsite at PTTEP)",
+			"period": "FEB 2025 - Present",
+			"achievements": [
+				"Designed and developed a Marketplace system for procurement operations, allowing vendors to submit quotations for comparison and selection.",
+				"Built the Vendor Comparison Table feature to support price evaluations and vendor awarding, with automatic generation of approval notes and related documents.",
+				"Integrated the system with SharePoint for automatic document storage and workflow consistency.",
+				"Developed a centralized middleware for API permission enforcement, used across services to ensure role-based access control.",
+				"Implemented background processing components using Go’s goroutines for asynchronous tasks such as document generation and workflow triggering.",
+				"Collaborated closely with frontend, QA, and business teams to align technical implementation with business goals and enterprise standards.",
+				"Worked in an Agile/Scrum environment with regular Sprint Planning, Daily Standups, Reviews, and Retrospectives."
+			]
+		},
+		{
 			"position": "SENIOR FULL STACK DEVELOPER",
 			"company": "MetaEarn Co., Ltd.",
-			"period": "Sep 2022 - Present",
-
+			"period": "Sep 2022 - Jan 2025",
 			"achievements": [
 				"Developed NFT-related projects, including managing NFT assets, randomizing NFT data, and integrating files into Web3 using IPFS and NodeJS.",
 				"Developed Smyleland, a privilege-based website for Smyleland games, using ReactJS.",

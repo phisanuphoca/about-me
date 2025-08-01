@@ -122,8 +122,7 @@ export default function Home() {
 											such as NestJS, ReactJS, and AWS, I excel at building
 											scalable systems and seamless user interfaces that deliver
 											impactful results. I am also passionate about self-
-											learning and exploring new technologies, with a particular
-											interest in Golang and Rust.
+											learning and exploring new technologies.
 										</p>
 									</div>
 									<div className="space-y-4"></div>
@@ -144,21 +143,6 @@ export default function Home() {
 										</div>
 									</div>
 								</div>
-								{/*<div className="md:w-[50%]  ">
-									<div className="inline-block border px-4 py-2 border-black text-2xl font-medium	shadow-[7px_7px_0px_0px_rgba(0,0,0,1)] mb-3">
-										Certifications
-									</div>
-									<div className="pl-4">
-										<div className="text-lg ">
-											<ul className="list-disc ml-4">
-												<li>Outsystems Associate Reactive Developer</li>
-												<li>Outsystems Associate Traditional Web Developer</li>
-												<li>Outsystems Mobile Developer Specialist</li>
-											</ul>
-										</div>
-										<div className="space-y-4"></div>
-									</div>
-								</div>*/}
 							</div>
 							<div className="mb-7">
 								<div className="">
@@ -266,6 +250,9 @@ export default function Home() {
 												<li>Kafka, RabbitMQ</li>
 												<li>AWS</li>
 												<li>Outsystems</li>
+												<li>Jira</li>
+												<li>Agile</li>
+												<li>Golang</li>
 											</ul>
 										</div>
 										<div className="space-y-4"></div>
